@@ -1,6 +1,6 @@
 import React from 'react';
 import './cakes.css';
-import { cakes } from '../data/menu';
+import { cakes } from '../../data/menu';
 import Slide from 'react-reveal/Reveal';
 
 const Cakes = ({ id }) => {

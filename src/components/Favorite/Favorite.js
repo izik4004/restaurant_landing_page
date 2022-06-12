@@ -1,7 +1,7 @@
 import React from 'react';
 import './favorite.css';
 import Slide from 'react-reveal/Reveal';
-import favorite from '../images/favourite.jpg';
+import favorite from '../../images/favourite.jpg';
 
 const Favorite = () => {
 	return (

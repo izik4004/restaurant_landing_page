@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Cakes/cakes.css';
 import './chefs.css';
-import { chefs } from '../data/chefs';
+import { chefs } from '../../data/chefs';
 import Slide from 'react-reveal/Reveal';
 
 const Chefs = ({ id }) => {
