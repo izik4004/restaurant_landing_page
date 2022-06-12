@@ -5,11 +5,11 @@ export const chefs = [
 	{
 		img: chef1,
 		alt: 'Chef',
-		name: 'Ferran Adrià',
+		name: 'Alfred Cookeey',
 	},
 	{
 		img: chef2,
 		alt: 'Chef',
-		name: 'Mario Batali',
+		name: 'Jeff Anderson',
 	},
 ];

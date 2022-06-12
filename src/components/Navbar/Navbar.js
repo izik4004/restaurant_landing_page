@@ -19,7 +19,7 @@ const Navbar = ({ toggle }) => {
 	return (
 		<nav className={`navbar ${move ? 'move' : ''}`}>
 			<Link className="navlink" to="/">
-				<div className="desktop">Marshmallow & Cakes</div>
+				<div className="desktop">BURGER</div>
 			</Link>
 			<div className="navicon" onClick={toggle}>
 				<FaBars className="icon"></FaBars>

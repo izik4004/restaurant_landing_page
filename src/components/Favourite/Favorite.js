@@ -1,7 +1,7 @@
 import React from 'react';
 import './favorite.css';
 import Slide from 'react-reveal/Reveal';
-import favorite from '../../images/favourite.jpg';
+import favorite from '../../images/b3.jpg';
 
 const Favorite = () => {
 	return (
@@ -15,7 +15,7 @@ const Favorite = () => {
 				<Slide right>
 					<div className="textContent">
 						<p>
-							Strawberries and cream and spice with a zip of balsamic. This cake
+							Burger and beef with a zip of balsamic. This cake
 							celebrates all the classic strawberry combinations, a little like a
 							greatest hits album, but way more delicious!
 						</p>

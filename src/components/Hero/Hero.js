@@ -16,7 +16,7 @@ const Hero = () => {
 			<Sidebar show={show} toggle={toggle}></Sidebar>
 			<div className="content">
 				<div className="contentItems">
-					<h1 className="navHead">Yummy and beautiful desserts</h1>
+					<h1 className="navHead">Sweet and Yummy Burger</h1>
 					<p>
 						A local favorite for 83+ years. Featuring our famous DeAngelis donuts ice
 						cream and our cakes. Full menu offered all day and late night. Full bar with

@@ -24,7 +24,7 @@ const Sidebar = ({ toggle, show }) => {
 					Staff
 				</Link>
 				<Link to="/" className="sideLink">
-					Custom cakes
+					Custom burger
 				</Link>
 				<Link to="/" className="sideLink">
 					Contact
