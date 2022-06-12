@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 // import { Nav, NavLink, NavIcon, Bars } from './NavbarElements';
 import { Link } from 'react-router-dom';
-import './Navbar.css';
+import './navbar.css';
 import { FaBars } from 'react-icons/fa';
 
 const Navbar = ({ toggle }) => {

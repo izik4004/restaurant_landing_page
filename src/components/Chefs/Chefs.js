@@ -1,6 +1,6 @@
 import React from 'react';
-import './Cakes.css';
-import './Chefs.css';
+import '../Cakes/cakes.css';
+import './chefs.css';
 import { chefs } from '../data/chefs';
 import Slide from 'react-reveal/Reveal';
 
